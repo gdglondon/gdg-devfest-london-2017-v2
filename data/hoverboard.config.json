@@ -1,11 +1,11 @@
 {
   "basepath": "/",
-  "url": "https://hoverboard-v2-dev.firebaseapp.com/",
-  "startDate": "2017-10-013T09:00:00+03:00",
-  "endDate": "2017-10-14T19:00:00+03:00",
+  "url": "https://devfest.gdg.london/2017",
+  "startDate": "2017-11-11T09:30:00+00:00",
+  "endDate": "2017-11-11T18:30:00+00:00",
   "analytics": {
-    "prod": "UA-43643469-8",
-    "dev": "UA-43643469-9"
+    "prod": "UA-58997508-5",
+    "dev": "UA-58997508-5"
   },
   "environment": "dev",
   "prefix": "/",
@@ -17,7 +17,7 @@
     "storageBucket": "devfest-london-2017-test.appspot.com",
     "messagingSenderId": "1044910960326"
   },
-  "googleMapApiKey": "AIzaSyDWy6O98n-ueoVaYPWRPve23vjm3JP08gw",
+  "googleMapApiKey": "AIzaSyBpiIVslG6GrbscZerHSw-L9-ewM8UaKUQ",
   "organizer": {
     "name": "GDG Lviv",
     "twitter": "gdglviv",
